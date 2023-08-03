@@ -1,0 +1,7 @@
+.FlexContainer {
+  max-width: 800px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding: 20px;
+}
